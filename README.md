@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This dashboard helps the supermarket to understand their customers better. It helps the supermarket to know if their customers are satisfied with their services. Through different ratings, and products sell, they get to know their improvement area, and thus they can improve their services by identifying these area. 
+This dashboard helps the supermarket to understand their customers better. It helps them to know if their customers are satisfied with their services. Through different ratings, and products sell, they get to know their improvement area, and thus they can improve their services by identifying these area. 
 
 ### Steps followed 
 
